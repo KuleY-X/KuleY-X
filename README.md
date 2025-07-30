@@ -33,8 +33,8 @@
 ###
 
 <div align="center">
-  <a href="https://music.youtube.com/channel/UC1l_DqKAadG7LBwKjCF3Zgw?si=Atfr6h-yFE_zM-sm" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube%20Music-Recently%20played-red?logo=youtube" alt="YouTube Music Recently Played" />
+  <a href="https://music.youtube.com/channel/UC1l_DqKAadG7LBwKjCF3Zgw?si=60lpl0_Rp2o_aOVT" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube%20Music-KuleY-red?logo=youtube" alt="YouTube Music: KuleY" />
   </a>
 </div>
 
