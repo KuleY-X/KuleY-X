@@ -1,14 +1,18 @@
-<h2 align="left">Hi 👋! My name is KuleY-X and I'm From Sri Lanka</h2>
+<h2 align="center">👋 Welcome to my GitHub profile!</h2>
 
-###
+<p align="center">
+  <!-- Typing SVG animation -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&color=9F79FF&center=true&vCenter=true&width=440&lines=Loading...;Welcome+to+KuleY-X's+profile!" alt="Welcome Loading Animation" />
+</p>
+
+<p align="center">
+  <!-- CSS spinner animation using HTML/CSS inside Markdown (works on GitHub) -->
+  <img src="https://raw.githubusercontent.com/n3r4zzurr0/svg-spinners/main/svg-css-spinner/svg-css-spinner-round.svg" height="40" alt="Loading Spinner" />
+</p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KuleY-X&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KuleY-X&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
 </div>
-
-###
-
-<!-- Profile image removed -->
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -29,10 +33,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
 </div>
-
-###
-
-###
 
 <br clear="both">
 
