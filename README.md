@@ -33,9 +33,13 @@
 ###
 
 <div align="center">
+  <img src="https://img.shields.io/badge/YouTube%20Music-KuleY-red?logo=youtube" alt="YouTube Music: KuleY" />
+  <br>
   <a href="https://music.youtube.com/channel/UC1l_DqKAadG7LBwKjCF3Zgw?si=60lpl0_Rp2o_aOVT" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube%20Music-KuleY-red?logo=youtube" alt="YouTube Music: KuleY" />
+    <img src="https://user-images.githubusercontent.com/83688740/221408674-6f4e4b28-9aeb-4b4e-8a4e-ea3d2d92c7c0.png" width="120" alt="KuleY-X Channel Logo"/>
   </a>
+  <br>
+  <b>Listen to my music on YouTube Music!</b>
 </div>
 
 ###
