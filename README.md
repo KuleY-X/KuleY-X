@@ -7,7 +7,7 @@
 
 <p align="center">
   <!-- Typing SVG animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=9F79FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Welcome+to+KuleY-X's+profile!;Full+Stack+Developer+%F0%9F%9A%80;Building+awesome+things+%E2%9C%A8" alt="Welcome Loading Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=9F79FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Welcome+to+KuleY-X's+profile!;Building+awesome+things+%E2%9C%A8" alt="Welcome Loading Animation" />
 </p>
 
 <!-- Animated Divider -->
